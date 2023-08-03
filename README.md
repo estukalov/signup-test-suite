@@ -1,6 +1,7 @@
 # Signup test suite
 This is a test suite based on Ruby, Cucumber, and Capybara
 It can be launched as follows:
+
 	bundle exec cucumber
 	
 Console output should look something like this:
